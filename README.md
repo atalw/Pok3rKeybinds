@@ -7,10 +7,10 @@ The first thing I did is switch `CapsLock` and `L_Ctrl` in Mac itself. This is b
 
 ### [Move Fn to L_Ctrl](https://github.com/davidjenni/pok3r-layouts#Move_FN)
 	
-*     Unplug keyboard
-*     DIP switch 4 to ON
-*     Plugin keyboard again, then press `Fn` then: `L_Ctrl` then: `PN` then: `PN` (to leave it in its original location)
-*     DIP switch 4 back to OFF (no need to unplug)
+* Unplug keyboard
+* DIP switch 4 to ON
+* Plugin keyboard again, then press `Fn` then: `L_Ctrl` then: `PN` then: `PN` (to leave it in its original location)
+* DIP switch 4 back to OFF (no need to unplug)
 
 ### Fn + y -> Open new tab and go to youtube.com
 
@@ -68,6 +68,13 @@ The first thing I did is switch `CapsLock` and `L_Ctrl` in Mac itself. This is b
 * `Pn`
 * `Fn + R_Ctrl`
 
+### R_Shift to L_Shift (So that R_Shift + Esc = ~)
+
+* `Fn + R_Ctrl`
+* `R_Shift`
+* `L_Shift`
+* `Pn`
+* `Fn + R_Ctrl`
 
 ### Default useful keybinds
 
